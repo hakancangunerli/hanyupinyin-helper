@@ -5,3 +5,7 @@ Pinyin Helper is a Python program that helps users with their Mandarin pronuncia
 pypinyin
 streamlit
 translate
+
+
+## Example: 
+![image](https://user-images.githubusercontent.com/33205097/226153382-08a25d7a-c522-47a4-8796-c9e3ed76a772.png)
