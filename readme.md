@@ -1,10 +1,7 @@
 # Pinyin Helper
+Pinyin Helper is a Python program that helps users with their Mandarin pronunciation by converting Chinese characters into Pinyin (phonetic transcription of Mandarin) and providing the English translations. The program also includes an option to translate the inputted text to other languages.
 
-I'm currently in the process of learning Mandarin (initially focusing on the pīnyīn, and will be going towards the 汉字 afterwards), thus, instead of going to  baidu baike all the time,i'd just rather have this handy-dandy script with me to answer my questions.
-
-## Packages used:
-Streamlit, ggts (Google Text-to-Speech, playsound, translate-python
-
-## References: 
-https://pypi.org/project/gTTS/
-https://pypi.org/project/playsound/ (due to errors with WSL encoding, I had to look up the documentation.) 
+## Packages Used:
+pypinyin
+streamlit
+translate
